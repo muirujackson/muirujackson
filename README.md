@@ -13,9 +13,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/jacksonmuirufullstackdeveloper/
 - ⚡ Fun fact: I love doing hard things. 
 
-<a href="https://github.com/muirujackson/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muirujackson&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/muirujackson/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muirujackson&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muirujackson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
