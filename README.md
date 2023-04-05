@@ -62,9 +62,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Call Stack Recursion](https://medium.com/@muirujackson/call-stack-recursion-cb6510d1a391?source=rss-2efa1f2a0d74------2)
+- [Call Stack Recursion](https://dev.to/muirujackson/call-stack-recursion-40eh)
 - [Char Pointer to String in C](https://medium.com/@muirujackson/char-pointer-to-string-in-c-aa4b59fdf289?source=rss-2efa1f2a0d74------2)
 - [Simple explanation of structure with Pointer in C](https://medium.com/@muirujackson/simple-explanation-of-structure-with-pointer-in-c-d12f0d4e4992?source=rss-2efa1f2a0d74------2)
 - [Shell, I/O Redirection](https://medium.com/@muirujackson/shell-i-o-redirection-ca60cc97fccb?source=rss-2efa1f2a0d74------2)
-- [How to Develop Growth Mindset and Grit](https://medium.com/@muirujackson/how-to-develop-growth-mindset-and-grit-e21da676eab1?source=rss-2efa1f2a0d74------2)
-- [The Power Of Yet](https://medium.com/@muirujackson/the-power-of-yet-6e2f4a1c43da?source=rss-2efa1f2a0d74------2)
 <!-- BLOG-POST-LIST:END -->
