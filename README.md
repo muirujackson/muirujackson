@@ -60,7 +60,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Use Cases of Default Parameters and Parameters Check](https://dev.to/muirujackson/use-cases-of-default-parameters-and-parameters-check-22kl)
 - [Best Practices For Creating Dynamic Array in C Programming](https://medium.com/@muirujackson/best-practices-for-creating-dynamic-array-in-c-programming-d5017cb743da?source=rss-2efa1f2a0d74------2)
