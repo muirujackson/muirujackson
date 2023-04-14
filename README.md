@@ -62,9 +62,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Use Cases of Default Parameters and Parameters Check](https://dev.to/muirujackson/use-cases-of-default-parameters-and-parameters-check-22kl)
 - [Best Practices For Creating Dynamic Array in C Programming](https://medium.com/@muirujackson/best-practices-for-creating-dynamic-array-in-c-programming-d5017cb743da?source=rss-2efa1f2a0d74------2)
 - [Call Stack Recursion](https://medium.com/@muirujackson/call-stack-recursion-cb6510d1a391?source=rss-2efa1f2a0d74------2)
 - [Call Stack Recursion](https://dev.to/muirujackson/call-stack-recursion-40eh)
 - [Declaration of String in C](https://medium.com/@muirujackson/char-pointer-to-string-in-c-aa4b59fdf289?source=rss-2efa1f2a0d74------2)
-- [Simple explanation of structure with Pointer in C](https://medium.com/@muirujackson/simple-explanation-of-structure-with-pointer-in-c-d12f0d4e4992?source=rss-2efa1f2a0d74------2)
 <!-- BLOG-POST-LIST:END -->
