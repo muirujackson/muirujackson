@@ -62,9 +62,9 @@
 
 ### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Debounce and Throttle Techniques.](https://medium.com/@muirujackson/debounce-and-throttle-techniques-cff0b0c23564?source=rss-2efa1f2a0d74------2)
 - [Header Files Directives in C](https://medium.com/@muirujackson/header-files-directives-in-c-546db6ee56e3?source=rss-2efa1f2a0d74------2)
 - [Use Cases of Default Parameters and Parameters Check](https://dev.to/muirujackson/use-cases-of-default-parameters-and-parameters-check-22kl)
 - [Best Practices For Creating Dynamic Array in C Programming](https://medium.com/@muirujackson/best-practices-for-creating-dynamic-array-in-c-programming-d5017cb743da?source=rss-2efa1f2a0d74------2)
 - [Call Stack Recursion](https://medium.com/@muirujackson/call-stack-recursion-cb6510d1a391?source=rss-2efa1f2a0d74------2)
-- [Call Stack Recursion](https://dev.to/muirujackson/call-stack-recursion-40eh)
 <!-- BLOG-POST-LIST:END -->
