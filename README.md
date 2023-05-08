@@ -62,9 +62,9 @@
 
 ### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the I/O System Calls Open, Close, Read and Write.](https://medium.com/@muirujackson/how-to-use-the-i-o-system-calls-open-close-read-and-write-f6f80dc61e2a?source=rss-2efa1f2a0d74------2)
 - [Best Practice of Writing Bash Shebang](https://medium.com/@muirujackson/best-practice-of-writing-bash-shebang-2b8876c7e589?source=rss-2efa1f2a0d74------2)
 - [How to Git Commit with a Single Character](https://medium.com/@muirujackson/how-to-git-commit-with-a-single-character-2e97c0ca4603?source=rss-2efa1f2a0d74------2)
 - [Use of Double Pointers in C?](https://medium.com/@muirujackson/use-of-double-pointers-in-c-d94e086a13fc?source=rss-2efa1f2a0d74------2)
 - [Debounce and Throttle Techniques.](https://medium.com/@muirujackson/debounce-and-throttle-techniques-cff0b0c23564?source=rss-2efa1f2a0d74------2)
-- [Header Files Directives in C](https://medium.com/@muirujackson/header-files-directives-in-c-546db6ee56e3?source=rss-2efa1f2a0d74------2)
 <!-- BLOG-POST-LIST:END -->
