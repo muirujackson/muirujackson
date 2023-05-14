@@ -62,9 +62,9 @@
 
 ### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Shell Project Step by Step](https://medium.com/@muirujackson/shell-project-step-by-step-80aa31a71df0?source=rss-2efa1f2a0d74------2)
 - [The Three Prototype of Main](https://medium.com/@muirujackson/the-three-prototype-of-main-2f46e82d86c5?source=rss-2efa1f2a0d74------2)
 - [List of functions and system calls for Shell Project in details](https://medium.com/@muirujackson/list-of-functions-and-system-calls-for-shell-project-in-details-a17c3aec8372?source=rss-2efa1f2a0d74------2)
 - [How to Use the I/O System Calls Open, Close, Read and Write.](https://medium.com/@muirujackson/how-to-use-the-i-o-system-calls-open-close-read-and-write-f6f80dc61e2a?source=rss-2efa1f2a0d74------2)
 - [Best Practice of Writing Bash Shebang](https://medium.com/@muirujackson/best-practice-of-writing-bash-shebang-2b8876c7e589?source=rss-2efa1f2a0d74------2)
-- [How to Git Commit with a Single Character](https://medium.com/@muirujackson/how-to-git-commit-with-a-single-character-2e97c0ca4603?source=rss-2efa1f2a0d74------2)
 <!-- BLOG-POST-LIST:END -->
