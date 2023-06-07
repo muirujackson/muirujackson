@@ -62,9 +62,9 @@
 
 ### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Python String Formatting Guide](https://medium.com/@muirujackson/python-string-formatting-guide-dca3d9c94143?source=rss-2efa1f2a0d74------2)
 - [Step by Step Guide to Detect Specific Memory Leaks &amp; Issues with Valgrind Memcheck](https://medium.com/@muirujackson/step-by-step-guide-to-detect-specific-memory-leaks-issues-with-valgrind-memcheck-b9aa45b967c5?source=rss-2efa1f2a0d74------2)
 - [Shell Project Step by Step](https://medium.com/@muirujackson/shell-project-step-by-step-80aa31a71df0?source=rss-2efa1f2a0d74------2)
 - [The Three Prototype of Main](https://medium.com/@muirujackson/the-three-prototype-of-main-2f46e82d86c5?source=rss-2efa1f2a0d74------2)
 - [List of functions and system calls for Shell Project in details](https://medium.com/@muirujackson/list-of-functions-and-system-calls-for-shell-project-in-details-a17c3aec8372?source=rss-2efa1f2a0d74------2)
-- [How to Use the I/O System Calls Open, Close, Read and Write.](https://medium.com/@muirujackson/how-to-use-the-i-o-system-calls-open-close-read-and-write-f6f80dc61e2a?source=rss-2efa1f2a0d74------2)
 <!-- BLOG-POST-LIST:END -->
