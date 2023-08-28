@@ -62,6 +62,9 @@
 
 ### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Use Cases of Default Parameters and Parameters Check](https://dev.to/muirujackson/use-cases-of-default-parameters-and-parameters-check-22kl)
-- [Call Stack Recursion](https://dev.to/muirujackson/call-stack-recursion-40eh)
+- [Hash Table](https://medium.com/@muirujackson/hash-table-acf7f1f38f33?source=rss-2efa1f2a0d74------2)
+- [Python — Test-driven development](https://medium.com/@muirujackson/python-test-driven-development-6235c479baa2?source=rss-2efa1f2a0d74------2)
+- [Set, Dictionary, and Lambda, filter, reduce and map functions](https://medium.com/@muirujackson/set-dictionary-and-lambda-filter-reduce-and-map-functions-4b304a30a0da?source=rss-2efa1f2a0d74------2)
+- [Accessing Command line Arguments in Python](https://medium.com/@muirujackson/accessing-command-line-arguments-in-python-acccd1319d84?source=rss-2efa1f2a0d74------2)
+- [Python Import and Module Comprehensive Guide](https://medium.com/@muirujackson/python-import-and-module-comprehensive-guide-69aa3758109f?source=rss-2efa1f2a0d74------2)
 <!-- BLOG-POST-LIST:END -->
