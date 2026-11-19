@@ -62,9 +62,6 @@
 
 ### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Database Security: Leveraging Metadata and Service Accounts to Mitigate Risks](https://medium.com/@muirujackson/enhancing-database-security-leveraging-metadata-and-service-accounts-to-mitigate-risks-60a92508bafb?source=rss-2efa1f2a0d74------2)
-- [Debugging Best Practices: How to Systematically Solve Complex Issues](https://medium.com/@muirujackson/debugging-best-practices-how-to-systematically-solve-complex-issues-132109faf17f?source=rss-2efa1f2a0d74------2)
-- [The Ultimate Guide to Firewalls: Defending Your Digital Perimeter](https://medium.com/@muirujackson/the-ultimate-guide-to-firewalls-defending-your-digital-perimeter-18475631d19d?source=rss-2efa1f2a0d74------2)
-- [What happens when you type google.com in your browser and press Enter](https://medium.com/@muirujackson/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-afdbd7a5a474?source=rss-2efa1f2a0d74------2)
-- [Hash Table](https://medium.com/@muirujackson/hash-table-acf7f1f38f33?source=rss-2efa1f2a0d74------2)
+- [Use Cases of Default Parameters and Parameters Check](https://dev.to/muirujackson/use-cases-of-default-parameters-and-parameters-check-22kl)
+- [Call Stack Recursion](https://dev.to/muirujackson/call-stack-recursion-40eh)
 <!-- BLOG-POST-LIST:END -->
